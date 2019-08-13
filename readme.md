@@ -21,12 +21,21 @@ For everything else (linear models, random forests etc)
 
 [Talking Machines](http://www.thetalkingmachines.com/)
 - [The Deep End of Deep Learning](http://www.thetalkingmachines.com/episodes/deep-end-deep-learning?context_entity_type=node&context_entity_id=29216)
+- 
+This Week in AI
+- [Are We Being Honest About How Difficult AI Really Is? with David Ferrucc](https://twimlai.com/twiml-talk-268-are-we-being-honest-about-how-difficult-ai-really-is-with-david-ferrucci/)
+
 
 ## [The Bitter Lesson - Rich Sutton - 2019](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 > One thing that should be learned from the bitter lesson is the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning. 
 
 > The second general point to be learned from the bitter lesson is that the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds, such as simple ways to think about space, objects, multiple agents, or symmetries.
+
+
+## Ecosystem
+
+[Papers With Code](https://paperswithcode.com/) - a free and open resource with Machine Learning papers, code and evaluation tables
 
 ## Talks
 
@@ -39,6 +48,10 @@ For everything else (linear models, random forests etc)
 ## Blogs
 
 [lossfunctions](https://lossfunctions.tumblr.com/)
+
+[colah's blog](https://colah.github.io/)
+- [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 [Berkeley Artifical Intelligence Research (BAIR)](https://bair.berkeley.edu/blog/)
 
@@ -61,6 +74,10 @@ Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https:/
 
 [Superintelligence: Paths, Dangers, Strategies (2014 book) - Nick Bostrom](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
 
+[How Not to Be Wrong: The Power of Mathematical Thinking - Jordan Ellenberg](https://en.wikipedia.org/wiki/How_Not_to_Be_Wrong)
+
+[Statistics Done Wrong - Alex Reinhart](https://www.statisticsdonewrong.com/)
+
 ## Criticism
 
 [2018 - The rise of 'pseudo-AI': how tech firms quietly use humans to do bots' work](https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies)
@@ -71,6 +88,8 @@ Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https:/
 
 [2019 - Our Entire AI Revolution Is Built On A Correlation House Of Cards - Forbes](https://www.forbes.com/sites/kalevleetaru/2019/04/20/our-entire-ai-revolution-is-built-on-a-correlation-house-of-cards/#22c051a54969)
 
+[2019 - Machine learning systems are stuck in a rut](https://blog.acolyer.org/2019/06/28/machine-learning-systems-are-stuck-in-a-rut/)
+
 ## Domain specific
 
 [The financial world wants to open AI's boxes &#8211; MIT Technology Review](https://www.technologyreview.com/s/604122/the-financial-world-wants-to-open-ais-black-boxes/)
@@ -78,3 +97,31 @@ Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https:/
 ## Misc
 
 [Paperclip maximizer](https://wiki.lesswrong.com/wiki/Paperclip_maximizer)
+
+## Textbooks
+
+[Introduction to High-Performance Scientific Computing - Victor Eijkhout](http://pages.tacc.utexas.edu/~eijkhout/istc/html/index.html)
+
+[Think Stats 2nd Edition](https://greenteapress.com/wp/think-stats-2e/).
+
+## Courses
+
+Bay Area Deep Learning School
+
+[Day One](https://www.youtube.com/watch?v=eyovmAtoUx0)
+
+- [Deep Learning - Hugo Larochelle](https://youtu.be/eyovmAtoUx0?list=WL&t=585)
+- [Vision - Andrej Karpathy](https://youtu.be/eyovmAtoUx0?list=WL&t=5266)
+- [NLP - Richard Socher](https://youtu.be/eyovmAtoUx0?t=14036)
+- [Unsupervised - Ruslan Salakhutdinov](https://youtu.be/eyovmAtoUx0?list=WL&t=25874)
+
+[Day Two](https://www.youtube.com/watch?v=9dXiAecyJrY)
+
+- [Reinforcement Learning - John Schulman](https://youtu.be/9dXiAecyJrY?t=361)
+- [Theano - Pascal Lamblin](https://youtu.be/9dXiAecyJrY?t=6702)
+- [Speech recognition - Adam Coates](https://youtu.be/9dXiAecyJrY?t=13878)
+- [Torch - Alex Wiltschko](https://youtu.be/9dXiAecyJrY?t=20966)
+- [Sequences - Quoc Lee](https://youtu.be/9dXiAecyJrY?t=25463)
+- [Foundations & Challenges - Yoshua Bengio](https://youtu.be/9dXiAecyJrY?t=30704)
+
+
