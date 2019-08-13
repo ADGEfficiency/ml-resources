@@ -1,4 +1,4 @@
-This repository is in early development - a refactor of my machine learning resources.  If you like this check out [rl-resources](https://github.com/ADGEfficiency/rl-resources) and [programming resources](https://github.com/ADGEfficiency/programming-resources).
+A refactor of my personal machine learning resources.  If you like this check out [rl-resources](https://github.com/ADGEfficiency/rl-resources) and [programming resources](https://github.com/ADGEfficiency/programming-resources).
 
 ## If you are starting out with machine learning
 
