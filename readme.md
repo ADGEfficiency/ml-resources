@@ -25,13 +25,11 @@ For everything else (linear models, random forests etc)
 This Week in AI
 - [Are We Being Honest About How Difficult AI Really Is? with David Ferrucc](https://twimlai.com/twiml-talk-268-are-we-being-honest-about-how-difficult-ai-really-is-with-david-ferrucci/)
 
-
 ## [The Bitter Lesson - Rich Sutton - 2019](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 > One thing that should be learned from the bitter lesson is the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning. 
 
 > The second general point to be learned from the bitter lesson is that the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds, such as simple ways to think about space, objects, multiple agents, or symmetries.
-
 
 ## Ecosystem
 
@@ -123,5 +121,3 @@ Bay Area Deep Learning School
 - [Torch - Alex Wiltschko](https://youtu.be/9dXiAecyJrY?t=20966)
 - [Sequences - Quoc Lee](https://youtu.be/9dXiAecyJrY?t=25463)
 - [Foundations & Challenges - Yoshua Bengio](https://youtu.be/9dXiAecyJrY?t=30704)
-
-
