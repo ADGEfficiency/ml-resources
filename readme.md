@@ -2,11 +2,11 @@ A refactor of my personal machine learning resources.  If you like this check ou
 
 ## If you are starting out with machine learning
 
-For neural networks - [Deep Learning - Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+For neural networks - [Deep Learning - Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) - read chapters 1-3, 5-6, 111-12
 
 For everything else (linear models, random forests etc) 
 
-- [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+- [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) - read chapters 1-4, 7-8 and 9
 - [Pattern Recognition and Machine Learning - Christopher M. Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
 ## Podcasts
@@ -18,6 +18,11 @@ For everything else (linear models, random forests etc)
 - [Oriol Vinyals](https://www.youtube.com/watch?v=Kedt2or9xlo)
 - [Ian Goodfellow](https://www.youtube.com/watch?v=Z6rxFNMGdn0)
 - [Guido van Rossum](https://www.youtube.com/watch?v=ghwaIiE3Nd8)
+- [George Hotz](https://www.youtube.com/watch?v=iwcYp-XT7UI)
+- [Yann LeCun](https://www.youtube.com/watch?v=SGSOCuByo24)
+- [Jeremy Howard - fastai](https://www.youtube.com/watch?v=J6XcP4JOHmk)
+- [Greg Brockman - OpenAI](https://www.youtube.com/watch?v=bIrEM2FbOLU)
+- [Yoshua Bengio](
 
 [Talking Machines](http://www.thetalkingmachines.com/)
 - [The Deep End of Deep Learning](http://www.thetalkingmachines.com/episodes/deep-end-deep-learning?context_entity_type=node&context_entity_id=29216)
@@ -87,6 +92,8 @@ Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https:/
 [2019 - Our Entire AI Revolution Is Built On A Correlation House Of Cards - Forbes](https://www.forbes.com/sites/kalevleetaru/2019/04/20/our-entire-ai-revolution-is-built-on-a-correlation-house-of-cards/#22c051a54969)
 
 [2019 - Machine learning systems are stuck in a rut](https://blog.acolyer.org/2019/06/28/machine-learning-systems-are-stuck-in-a-rut/)
+
+[2019 - DeepMind's losses and the future of artificial intelligence - WIRED](https://www.wired.com/story/deepminds-losses-future-artificial-intelligence/)
 
 ## Domain specific
 
