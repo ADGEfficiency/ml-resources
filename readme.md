@@ -9,6 +9,10 @@ For everything else (linear models, random forests etc)
 - [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) - read chapters 1-4, 7-8 and 9
 - [Pattern Recognition and Machine Learning - Christopher M. Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
+There is also [An Introduction to Statistical Learning - James et. al](http://faculty.marshall.usc.edu/gareth-james/ISL/), which covers the same topics as Elements of Statistical Learning, but concentrates on applications & less on math.
+
+[floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - answers the question 'Which paper should I start reading from?'
+
 ## Podcasts
 
 [Lex Fridman - AI Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
@@ -22,7 +26,8 @@ For everything else (linear models, random forests etc)
 - [Yann LeCun](https://www.youtube.com/watch?v=SGSOCuByo24)
 - [Jeremy Howard - fastai](https://www.youtube.com/watch?v=J6XcP4JOHmk)
 - [Greg Brockman - OpenAI](https://www.youtube.com/watch?v=bIrEM2FbOLU)
-- [Yoshua Bengio](
+- [Yoshua Bengio](https://www.youtube.com/watch?v=azOmzumh0vQ)
+- [François Chollet](https://www.youtube.com/watch?v=Bo8MY4JpiXE)
 
 [Talking Machines](http://www.thetalkingmachines.com/)
 - [The Deep End of Deep Learning](http://www.thetalkingmachines.com/episodes/deep-end-deep-learning?context_entity_type=node&context_entity_id=29216)
@@ -39,6 +44,13 @@ This Week in AI
 ## Ecosystem
 
 [Papers With Code](https://paperswithcode.com/) - a free and open resource with Machine Learning papers, code and evaluation tables
+- [slack](https://join.slack.com/t/paperswithcode/shared_invite/enQtNzE2NDQyMTAxNDEzLTMxNmY2NTc4ZWYzZGJhZGRmZGFkNzVhNTI1OTZhYzFlZWZiZDQ0M2M5ZTkyYzNhZmZhZmRlMjkxNGQxZGEwZjA)
+- [state of the art](https://paperswithcode.com/sota)
+
+[Distill](https://distill.pub/) - Machine Learning Research Should Be Clear, Dynamic and Vivid. Distill Is Here to Help.
+
+[r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - the Machine Learning reddit
+- [slack](https://join.slack.com/t/rml-talk/shared_invite/enQtNjkyMzI3NjA2NTY2LWY0ZmRjZjNhYjI5NzYwM2Y0YzZhZWNiODQ3ZGFjYmI2NTU3YjE1ZDU5MzM2ZTQ4ZGJmOTFmNWVkMzFiMzVhYjg)
 
 ## Talks
 
@@ -49,6 +61,9 @@ This Week in AI
 [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 
 ## Blogs
+
+[Berkeley Artifical Intelligence Research - BAIR](https://bair.berkeley.edu/blog/)
+- [When Recurrent Models Don't Need to be Recurrent](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
 
 [lossfunctions](https://lossfunctions.tumblr.com/)
 
@@ -99,6 +114,10 @@ Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https:/
 
 [The financial world wants to open AI's boxes &#8211; MIT Technology Review](https://www.technologyreview.com/s/604122/the-financial-world-wants-to-open-ais-black-boxes/)
 
+## Datasets
+
+[UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+
 ## Misc
 
 [Paperclip maximizer](https://wiki.lesswrong.com/wiki/Paperclip_maximizer)
@@ -128,3 +147,5 @@ Bay Area Deep Learning School
 - [Torch - Alex Wiltschko](https://youtu.be/9dXiAecyJrY?t=20966)
 - [Sequences - Quoc Lee](https://youtu.be/9dXiAecyJrY?t=25463)
 - [Foundations & Challenges - Yoshua Bengio](https://youtu.be/9dXiAecyJrY?t=30704)
+
+Full Stack Deep Learning - [March 2019 videos](https://fullstackdeeplearning.com/march2019)
