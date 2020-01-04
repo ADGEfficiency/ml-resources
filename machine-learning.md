@@ -6,6 +6,8 @@
 
 [Google Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
+[Rules of Machine Learning - Google](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+
 Blog posts
 
 [Black-box vs. white-box models - Lars Hulstaert](https://towardsdatascience.com/machine-learning-interpretability-techniques-662c723454f3)

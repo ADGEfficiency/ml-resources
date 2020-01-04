@@ -1,3 +1,5 @@
+[Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - a small course on exploiting and defending neural networks
+
 [Gaussian Processes are Not So Fancy](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
 
 [Understanding optimization in deep learning by analyzing trajectories of gradient descent](http://www.offconvex.org/2018/11/07/optimization-beyond-landscape/)

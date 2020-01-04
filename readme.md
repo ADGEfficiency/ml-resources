@@ -13,6 +13,12 @@ There is also [An Introduction to Statistical Learning - James et. al](http://fa
 
 [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - answers the question 'Which paper should I start reading from?'
 
+## Math
+
+Deep Learning:
+- 2.1, 2.2, 2.3, 2.5
+- 3.1, ... 3.8
+
 ## Podcasts
 
 [Lex Fridman - AI Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
@@ -90,6 +96,8 @@ Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https:/
 
 [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World (2015 book) - Pedro Domingos](https://en.wikipedia.org/wiki/The_Master_Algorithm)
 
+[Algorithms to Live By: The Computer Science of Human Decisions - Christian & Griffiths](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
+
 [Superintelligence: Paths, Dangers, Strategies (2014 book) - Nick Bostrom](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
 
 [How Not to Be Wrong: The Power of Mathematical Thinking - Jordan Ellenberg](https://en.wikipedia.org/wiki/How_Not_to_Be_Wrong)
@@ -149,3 +157,11 @@ Bay Area Deep Learning School
 - [Foundations & Challenges - Yoshua Bengio](https://youtu.be/9dXiAecyJrY?t=30704)
 
 Full Stack Deep Learning - [March 2019 videos](https://fullstackdeeplearning.com/march2019)
+
+- [Lecture 3: Jeremy Howard](https://www.youtube.com/watch?v=hZd3X_nGdew)
+
+- [Lecture 8: Troubleshooting Deep Neural Networks - Josh Tobin](https://www.youtube.com/watch?v=GwGTwPcG0YM)
+- [Lecture 9: Testing and Deployment - Sergey Karayev](https://www.youtube.com/watch?v=nu7h1zdKPd0)
+
+
+
