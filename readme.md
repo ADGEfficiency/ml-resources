@@ -17,7 +17,7 @@ There is also [An Introduction to Statistical Learning - James et. al](http://fa
 
 Deep Learning:
 - 2.1, 2.2, 2.3, 2.5
-- 3.1, ... 3.8
+- 3.1  3.8
 
 ## Podcasts
 
@@ -33,7 +33,8 @@ Deep Learning:
 - [Jeremy Howard - fastai](https://www.youtube.com/watch?v=J6XcP4JOHmk)
 - [Greg Brockman - OpenAI](https://www.youtube.com/watch?v=bIrEM2FbOLU)
 - [Yoshua Bengio](https://www.youtube.com/watch?v=azOmzumh0vQ)
-- [François Chollet](https://www.youtube.com/watch?v=Bo8MY4JpiXE)
+- [François Chollet - Keras](https://www.youtube.com/watch?v=Bo8MY4JpiXE)
+- [Grant Sanderson - 3Blue1Brown](https://www.youtube.com/watch?v=U_lKUK2MCsg)
 
 [Talking Machines](http://www.thetalkingmachines.com/)
 - [The Deep End of Deep Learning](http://www.thetalkingmachines.com/episodes/deep-end-deep-learning?context_entity_type=node&context_entity_id=29216)
