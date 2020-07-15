@@ -1,4 +1,15 @@
+SpaCy talks:
+- [Matthew Honnibal - Building new NLP solutions with spaCy and Prodigy](https://www.youtube.com/watch?v=vrtTAeBLElw)
+- [Building Awesome Developer Tools - Ines Montani](https://youtu.be/Ivb4AAuj5JY)
+- [Ines Montani - How to Ignore Most Startup Advice and Build a Decent Software Business](https://youtu.be/74AsJ7RET20)
+
+## Advanced NLP with spaCy · A free online course - [youtube](https://www.youtube.com/watch?v=THduWAnG97k) - [course](https://course.spacy.io/en/)
+
+Natural Language Understanding: Foundations and State-of-the-Art - [youtube](https://youtu.be/mhHfnhh-pB4)
+
 [How To Make Custom AI-Generated Text With GPT-2](https://minimaxir.com/2019/09/howto-gpt2/)
+
+[The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
 [Mariel Frank: Introduction to NLP | PyData New York 2019](https://www.youtube.com/watch?v=tGzsVECHH4A)
 

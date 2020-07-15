@@ -1,4 +1,43 @@
+[Stationarity in time series analysis](https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322)
+
+[DSR course notes](https://docs.google.com/document/d/1J__46ZxSMHNfDJtd8EFLKOENa45iwTPI30R8RgVgKnA/edit)
+
+[cesium-ml/cesium](https://github.com/cesium-ml/cesium) - Machine Learning Time-Series Platform
+
+[chlubba/catch22](https://github.com/chlubba/catch22) - catch-22: CAnonical Time-series CHaracteristics
+
+[terryum/Data-Augmentation-For-Wearable-Sensor-Data](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data)
+
+[sky-uk/anticipy](https://github.com/sky-uk/anticipy)
+
+[PyData Tel Aviv Meetup: Introduction to Causal Inference in Time Series Data - Shay Palachy](https://www.youtube.com/watch?v=QVQoV22pPak)
+
+## Deep Learning
+
+[NLeSC/mcfly](https://github.com/NLeSC/mcfly) - a deep learning tool for time series classification
+
+[How to Use Convolutional Neural Networks for Time Series Classification](https://towardsdatascience.com/how-to-use-convolutional-neural-networks-for-time-series-classification-56b1b0a07a57)
+
+[Deep Learning for Time Series Classification (InceptionTime)](https://towardsdatascience.com/deep-learning-for-time-series-classification-inceptiontime-245703f422db)
+
+[Structural Time Series modeling in TensorFlow Probability](https://medium.com/tensorflow/structural-time-series-modeling-in-tensorflow-probability-344edac24083)
+
+[How WaveNet Works](https://towardsdatascience.com/how-wavenet-works-12e2420ef386)
+
+## Applications
+
+[Forecasting Electricity Price Time Series Data in Python using a VAR Model](https://towardsdatascience.com/analyzing-electricity-price-time-series-data-using-python-time-series-decomposition-and-price-4cd61924ef49)
+
+## Classical
+
+[ARIMA Model – Complete Guide to Time Series Forecasting in Python](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
+
+[Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm)
+
 [Time series analysis in Python](https://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic09_time_series/topic9_part1_time_series_python.ipynb?flush_cache=true)
+
+
+[Kuremoto et. al (2019) Training Deep Neural Networks with Reinforcement Learning for Time Series Forecasting](https://www.intechopen.com/books/time-series-analysis-data-methods-and-applications/training-deep-neural-networks-with-reinforcement-learning-for-time-series-forecasting)
 
 [papers-we-love/time_series/](https://github.com/papers-we-love/papers-we-love/tree/master/time_series)
 
@@ -44,4 +83,8 @@ Introduces linear regression, correlation
 
 `np.corrcoef([variable_t, variable_t-1])`
 
+# Tools
 
+Facebook Prophet
+
+[Amazon Forecast](https://aws.amazon.com/forecast/)
