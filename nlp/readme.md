@@ -47,3 +47,5 @@ Normalization
 
 [Natural Language Processing: the age of Transformers - 2019](https://blog.scaleway.com/2019/building-a-machine-reading-comprehension-system-using-the-latest-advances-in-deep-learning-for-nlp/)
 
+[Deep Learning Illustrated: Building Natural Language Processing Models](https://www.dominodatalab.com/blog/deep-learning-illustrated-building-natural-language-processing-models)
+
