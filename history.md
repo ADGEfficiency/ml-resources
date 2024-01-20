@@ -1,3 +1,9 @@
+[The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
+
+[Five major deep learning papers by Geoff Hinton did not cite similar earlier work by Jurgen Schmidhuber](https://www.reddit.com/r/MachineLearning/comments/e3buo3/d_five_major_deep_learning_papers_by_geoff_hinton/)
+
+---
+
 ## Sources
 
 [2019 - Yan LeCun - ISCC]()

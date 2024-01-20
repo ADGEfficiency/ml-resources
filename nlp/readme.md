@@ -1,7 +1,12 @@
-SpaCy talks:
+[microsoft/nlp-recipes: Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
+
+---
+
+## SpaCy talks:
+
 - [Matthew Honnibal - Building new NLP solutions with spaCy and Prodigy](https://www.youtube.com/watch?v=vrtTAeBLElw)
-- [Building Awesome Developer Tools - Ines Montani](https://youtu.be/Ivb4AAuj5JY)
-- [Ines Montani - How to Ignore Most Startup Advice and Build a Decent Software Business](https://youtu.be/74AsJ7RET20)
+- [Building Awesome Developer Tools - Lines Montani](https://youtu.be/Ivb4AAuj5JY)
+- [Lines Montani - How to Ignore Most Startup Advice and Build a Decent Software Business](https://youtu.be/74AsJ7RET20)
 
 ## Advanced NLP with spaCy · A free online course - [youtube](https://www.youtube.com/watch?v=THduWAnG97k) - [course](https://course.spacy.io/en/)
 
@@ -12,6 +17,8 @@ Natural Language Understanding: Foundations and State-of-the-Art - [youtube](htt
 [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
 [Mariel Frank: Introduction to NLP | PyData New York 2019](https://www.youtube.com/watch?v=tGzsVECHH4A)
+
+[What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/)
 
 ## String cleaning
 
@@ -48,4 +55,3 @@ Normalization
 [Natural Language Processing: the age of Transformers - 2019](https://blog.scaleway.com/2019/building-a-machine-reading-comprehension-system-using-the-latest-advances-in-deep-learning-for-nlp/)
 
 [Deep Learning Illustrated: Building Natural Language Processing Models](https://www.dominodatalab.com/blog/deep-learning-illustrated-building-natural-language-processing-models)
-

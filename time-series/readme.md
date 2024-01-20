@@ -1,3 +1,14 @@
+# Tools
+
+[tsfresh](https://tsfresh.readthedocs.io/en/latest/index.html)
+- [Extracted Features](https://tsfresh.readthedocs.io/en/latest/text/list_of_features.html)
+
+[ceasium](https://github.com/cesium-ml/cesium)
+
+---
+
+[Aileen Nielsen - Irregular time series and how to whip them](https://youtu.be/E4NMZyfao2c?si=-mFJk2BBleTvqpy-)
+
 [Stationarity in time series analysis](https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322)
 
 [DSR course notes](https://docs.google.com/document/d/1J__46ZxSMHNfDJtd8EFLKOENa45iwTPI30R8RgVgKnA/edit)
@@ -69,7 +80,7 @@ Introduction to Forecasting in Machine Learning and Deep Learning - [youtube](ht
 
 ## Jeffrey Yau - Time Series Forecasting using Statistical and Machine Learning Models - [video](https://www.clipzui.com/video/14s435o2w3d5q414z416k4.html)
 
-histograms cant capture time element of series
+histograms can't capture time element of series
 
 log differencing
 
@@ -79,7 +90,7 @@ seasonal differences to account for seasonality
 
 Introduces linear regression, correlation
 
-`np.corrcoef([varaible, target])`
+`np.corrcoef([variable, target])`
 
 `np.corrcoef([variable_t, variable_t-1])`
 

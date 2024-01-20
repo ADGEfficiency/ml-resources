@@ -5,3 +5,5 @@
 [The rise of 'pseudo-AI': how tech firms quietly use humans to do bots' work](https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies)
 
 [An understanding of AI’s limitations is starting to sink in](https://www.economist.com/technology-quarterly/2020/06/11/an-understanding-of-ais-limitations-is-starting-to-sink-in)
+
+[How to recognize AI snake oil](https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf)

@@ -1,10 +1,13 @@
 # Blogs
 
+FloydHub
+- [Emil’s Story as a Self-Taught AI Researcher](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
+
 [Lil'Log](https://lilianweng.github.io/lil-log/) - Lilian Weng
 
 [Deep Learning: Our Miraculous Year 1990-1991 - Jürgen Schmidhuber (2019)](http://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html)
 
-[Berkeley Artifical Intelligence Research - BAIR](https://bair.berkeley.edu/blog/)
+[Berkeley Artificial Intelligence Research - BAIR](https://bair.berkeley.edu/blog/)
 - [When Recurrent Models Don't Need to be Recurrent](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
 
 [lossfunctions](https://lossfunctions.tumblr.com/)
@@ -13,7 +16,7 @@
 - [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-[Berkeley Artifical Intelligence Research (BAIR)](https://bair.berkeley.edu/blog/)
+[Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/blog/)
 
 Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https://medium.com/@karpathy)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
@@ -31,3 +34,6 @@ Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https:/
 
 [inconvergent](https://inconvergent.net/)
 - [On Generative Algorithms](https://inconvergent.net/generative/)
+
+fastai
+- [The problem with metrics is a big problem for AI](https://www.fast.ai/posts/2019-09-24-metrics.html)

@@ -8,6 +8,14 @@
 
 Essence of linear algebra - [youtube series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+[Algorithm Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf)
+
+# Textbooks
+
+[A Programmer's Introduction to Mathematics)](https://pimbook.org/) 
+
+[Causation, Prediction, and Search](https://www.cs.cmu.edu/afs/cs.cmu.edu/project/learn-43/lib/photoz/.g/web/.g/scottd/fullbook.pdf)
+
 ## The Matrix Cookbook - [textbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 Vector norm = magnitude = length
