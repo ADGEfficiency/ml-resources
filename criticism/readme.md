@@ -1,3 +1,29 @@
+[Against Predictive Optimization](https://predictive-optimization.cs.princeton.edu/)
+
+Predictive optimization to refer to automated decision-making systems where machine learning is used to make predictions about some future outcome pertaining to individuals, and those predictions are used to make decisions about them. 
+
+## Seven flaws of predictive optimization
+
+### Good predictions may not lead to good decisions
+
+### It's hard to measure what we truly care about 
+
+### The training data rarely matches the deployment setting 
+
+### Social outcomes aren’t accurately predictable, with or without machine learning 
+
+### Disparate performance between groups can’t be fixed by algorithmic interventions 
+
+However, a system that is fair in a statistical sense may nonetheless perpetuate, reify, or even amplify long-standing cycles of inequality. 
+
+### Providing adequate contestability undercuts putative efficiency benefits 
+
+In many cases, the decisions were based on incorrect data, but the decision subjects had no recourse.
+
+### Predictive optimization doesn't account for strategic behavior 
+
+Predictive optimization can create unintended incentives for decision subjects to game the system.
+
 [What is wrong with convolutional neural nets? - Geoffrey Hinton - Fields Institute, 2017](https://www.youtube.com/watch?v=Mqt8fs6ZbHk)
 
 [This AI startup claims to automate app making but actually just uses humans](https://www.theverge.com/2019/8/14/20805676/engineer-ai-artificial-intelligence-startup-app-development-outsourcing-humans)

@@ -1,3 +1,5 @@
+[Uncertainty quantification - Wikipedia](https://en.wikipedia.org/wiki/Uncertainty_quantification#Aleatoric_and_epistemic_uncertainty)
+
 [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm)
 
 [Holes in Bayesian Statistics](https://statmodeling.stat.columbia.edu/2020/02/23/holes-in-bayesian-statistics/)

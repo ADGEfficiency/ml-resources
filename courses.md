@@ -1,5 +1,11 @@
 # Courses
 
+[UNIGE 14x050 – Deep Learning](https://fleuret.org/dlc/) - François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland.
+
+[Deep Learning DIY](https://dataflowr.github.io/website/)
+
+[Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html)
+
 [End-to-End Machine Learning](https://end-to-end-machine-learning.teachable.com/)
 
 [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
