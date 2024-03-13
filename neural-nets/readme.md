@@ -1,3 +1,4 @@
+
 [Uber's Synthetic Training Data Speeds Up Deep Learning by 9x - InfoQ](https://www.infoq.com/news/2020/01/uber-deep-learning-speedup/)
 
 Generative Teaching Networks (GTN) that produces synthetic training data for neural networks which allows the networks to be trained faster than when using real data. 
@@ -9,6 +10,14 @@ GTN-neural architecture search (GTN-NAS) is competitive with the state of the ar
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 [Deep Learning for Programmers](https://aiprobook.com/deep-learning-for-programmers/)
+
+## Annotated Papers
+
+[Annotated Research Paper Implementations](https://nn.labml.ai/)
+
+## Graph Neural Nets
+
+[A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 
 ---
 

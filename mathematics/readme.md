@@ -42,6 +42,14 @@ They can learn all these concepts no problem, but finding what they need to lear
 
 [An Overview of Bayesian Inference](https://jaydaigle.net/blog/overview-of-bayesian-inference/)
 
+[Against Bayesianism — David Deutsch](https://josephnoelwalker.com/139-david-deutsch/)
+
+[Introduction to Inference](https://koaning.io/posts/introduction-to-inference/)
+
+# Convolution
+
+[Intuitive Guide to Convolution](https://betterexplained.com/articles/intuitive-convolution/) - [Hacker News](https://news.ycombinator.com/item?id=25190770)
+
 # Linear Algebra
 
 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)

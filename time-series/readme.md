@@ -3,7 +3,8 @@
 [tsfresh](https://tsfresh.readthedocs.io/en/latest/index.html)
 - [Extracted Features](https://tsfresh.readthedocs.io/en/latest/text/list_of_features.html)
 
-[ceasium](https://github.com/cesium-ml/cesium)
+[Ceasium](https://github.com/cesium-ml/cesium)
+- [Cesium Features - By Category](http://cesium-ml.org/docs/feature_table.htmlhttp://cesium-ml.org/docs/feature_table.html)
 
 [wilsonrljr/sysidentpy](https://github.com/wilsonrljr/sysidentpy) - nonlinear forecasting models.
 
