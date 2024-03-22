@@ -21,6 +21,8 @@ GTN-neural architecture search (GTN-NAS) is competitive with the state of the ar
 
 ---
 
+[The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
+
 [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - a small course on exploiting and defending neural networks
 
 [Gaussian Processes are Not So Fancy](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
@@ -68,3 +70,21 @@ When you have so many output classes, though, it becomes problematic to do thing
 [Deep Learning optimization](https://www.reddit.com/r/MachineLearning/comments/fkurza/d_deep_learning_optimization/)
 
 [Improved protein structure prediction using potentials from deep learning - Deep Mind](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D)
+
+[Why Deep Learning Works Even Though It Shouldn’t – Ryan Moulton's Articles](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/)
+
+There’s a good set of params somewhere nearby.
+
+When we start walking to it, we can’t ever get stuck along the way, because there are no local optima.
+
+In the classical regime, once we’ve stumbled upon a good set of parameters, we’ll know it and we can just stop.
+
+In the double descent regime, once we’ve stumbled upon a good set of parameters for the lower layers, gradient descent will tend to find an average of all the good models in the higher layers.
+
+---
+
+An optimization algorithm is best thought of as a priority queue of things to learn, and the thing that’s important to prove is that your algorithm learns the good things first. When your model peaks on the validation set, it is starting to learn more bad things than good things. When your model is reaching zero training loss in the second descent mode, it is building a random/average function out of the good things it learned early in training.
+
+---
+
+For me this way of thinking explains a lot of otherwise confusing phenomena, like why distillation works so well. Distillation causes the student model to learn more of the good things before it learns the bad things, because the teacher model knows more good things than bad things already. This is why it’s possible for a more powerful model to learn usefully from a weaker one.

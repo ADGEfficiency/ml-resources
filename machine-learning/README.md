@@ -16,7 +16,7 @@
 
 [Rules of Machine Learning - Google](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
-Blog posts
+## Blog posts
 
 [Black-box vs. white-box models - Lars Huhttps://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/lstaert](https://towardsdatascience.com/machine-learning-interpretability-techniques-662c723454f3)
 
@@ -40,3 +40,7 @@ Models' Performance Decay: Wills noted that all models' performance degrades ove
 Collaboration with Dependencies: He stressed the importance of close collaboration with teams providing inputs to the model.
 
 Deploy Models Like Code: He advised treating model deployment similarly to code deployment, using microservices frameworks for ease.
+
+## Courses
+
+[microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)

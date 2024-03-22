@@ -4,9 +4,11 @@
 
 [Deep Learning DIY](https://dataflowr.github.io/website/)
 
-[Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html)
+[Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html) - A course by Andrej Karpathy on building neural networks, from scratch, in code.
 
 [End-to-End Machine Learning](https://end-to-end-machine-learning.teachable.com/)
+
+[Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](https://implicit-layers-tutorial.org)
 
 [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 - [1 - Intro - Thore Graepel](https://youtu.be/7R52wiUgxZI)

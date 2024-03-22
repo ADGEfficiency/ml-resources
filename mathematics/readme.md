@@ -38,6 +38,12 @@ They see complex numbers with their exponentials and cos/sin forms and shut down
 
 They can learn all these concepts no problem, but finding what they need to learn defeats them. 
 
+[Change from product to sum](https://math.stackexchange.com/questions/1336271/change-from-product-to-sum)
+
+Sums and Products are basically interchangeable if you allow use of the logarithm because ln(𝑎⋅𝑏)=ln(𝑎)+ln(𝑏). 
+
+If you don't know how to extend the logarithm to negative arguments, then you'll have to ensure that the product is positive and that 𝑓(𝑘) is positive.
+
 # Bayesian
 
 [An Overview of Bayesian Inference](https://jaydaigle.net/blog/overview-of-bayesian-inference/)
@@ -45,6 +51,10 @@ They can learn all these concepts no problem, but finding what they need to lear
 [Against Bayesianism — David Deutsch](https://josephnoelwalker.com/139-david-deutsch/)
 
 [Introduction to Inference](https://koaning.io/posts/introduction-to-inference/)
+
+# Stats
+
+[NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/index.htm)
 
 # Convolution
 
@@ -57,6 +67,12 @@ They can learn all these concepts no problem, but finding what they need to lear
 [Immersive Linear Algebra](https://immersivemath.com/ila/index.html)
 
 [Why Tensors? A Beginner's Perspective](https://mfaizan.github.io/2022/03/08/why-tensors.html)
+
+[Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+
+[On AlphaTensor’s new matrix multiplication algorithms](https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/)
+
+[AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
 
 # ML Specific
 

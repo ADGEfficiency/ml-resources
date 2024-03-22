@@ -7,3 +7,5 @@ Feature Visualization - How neural networks build up their understanding of imag
 [DeepDream: How Alexander Mordvintsev Excavated the Computer’s Hidden Layers](https://thereader.mitpress.mit.edu/deepdream-how-alexander-mordvintsev-excavated-the-computers-hidden-layers/)
 
 [plant99/felicette: Satellite imagery for dummies.](https://github.com/plant99/felicette)
+
+[Multimodal neurons in artificial neural networks](https://openai.com/research/multimodal-neurons) - neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. 

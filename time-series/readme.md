@@ -16,6 +16,8 @@
 
 ---
 
+[TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis.
+
 [How (not) to use Machine Learning for time series forecasting: Avoiding the pitfalls - KDnuggets](https://www.kdnuggets.com/2019/05/machine-learning-time-series-forecasting.html)
 
 [How (not) to use Machine Learning for time series forecasting: The sequel - KDnuggets](https://www.kdnuggets.com/2020/03/machine-learning-time-series-forecasting-sequel.html)
@@ -113,11 +115,42 @@ Introduces linear regression, correlation
 
 # Tools
 
-Facebook Prophet
-
 [Amazon Forecast](https://aws.amazon.com/forecast/)
 
+https://nixtla.github.io/statsforeca
+
 ---
+
+[PyTorch Forecasting Documentation — pytorch-forecasting documentation](https://pytorch-forecasting.readthedocs.io/en/latest/index.html) - Temporal Fusion Transformers.
+
+---
+
+[Probabilistic forecasting - Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_forecasting)
+
+Probabilistic forecasting summarizes what is known about, or opinions about, future events. In contrast to single-valued forecasts (such as forecasting that the maximum temperature at a given site on a given day will be 23 degrees Celsius, or that the result in a given football match will be a no-score draw), probabilistic forecasts assign a probability to each of a number of different outcomes, and the complete set of probabilities represents a probability forecast. 
+
+## Neural Prophet
+
+https://neuralprophet.com/
+
+## Darts
+
+[unit8co/darts](https://github.com/unit8co/darts) - A Python library for user-friendly forecasting and anomaly detection on time series.
+
+## Prophet
+
+[Prophet: Automatic Forecasting Procedure | Hacker News](https://news.ycombinator.com/item?id=37663820)
+
+Model development on Prophet stopped this year.
+
+Prophet is not a particularly good model for forecasting, and has been superseded by a multitude of other models
+
+
+[Is Facebook's “Prophet” the time-series Messiah or just a naughty boy? | Hacker News](https://news.ycombinator.com/item?id=27695574)
+
+"Point-forecasts" are mostly useless in many import practical applications such as FinTech, e-commerce, sports betting, etc. Point-forecast models such as Prophet fail to give you a meaningful measure of uncertainty of the predicted value.
+
+Probability distribution is the right language to express prediction values and their uncertainty at the same time. And the decisions based on forecasts oftentimes take the uncertainty measures in consideration, e.g. portfolio risk optimization or buying decisions in e-commerce.
 
 # [Zillow, Prophet, Time Series, & Prices – r y x, r](https://ryxcommar.com/2021/11/06/zillow-prophet-time-series-and-prices/)
 
