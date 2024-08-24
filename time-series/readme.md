@@ -1,5 +1,7 @@
 # Tools
 
+[tslearn](https://tslearn.readthedocs.io/en/stable/index.html) - machine learning tools for the analysis of time series. This package builds on (and hence depends on) scikit-learn, numpy and scipy libraries.
+
 [tsfresh](https://tsfresh.readthedocs.io/en/latest/index.html)
 - [Extracted Features](https://tsfresh.readthedocs.io/en/latest/text/list_of_features.html)
 
@@ -13,6 +15,8 @@
 [Transfer learning for time series forecasting and classification](https://towardsdatascience.com/transfer-learning-for-time-series-forecasting-51f023bc159c)
 
 [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
+
+[Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
 
 ---
 
