@@ -26,6 +26,8 @@ Essence of linear algebra - [youtube series](https://www.youtube.com/playlist?li
 
 # Intro
 
+[Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - [Calculus I](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
+
 [Higher Math for Beginners](https://ia801202.us.archive.org/19/items/ZeldovichYaglomHigherMathematics/Zeldovich%2C%20Yaglom%20Higher%20Math%20for%20Beginners.pdf)
 
 My experience with learning math is that the first months are all about backtracking. You have to fill all your holes.
@@ -81,6 +83,20 @@ If you don't know how to extend the logarithm to negative arguments, then you'll
 [Mathematical Introduction to Deep Learning](https://arxiv.org/abs/2310.20360)
 
 [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
+
+[Dominance of the "Gradient Descent" over other algorithms : r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/okficy/d_dominance_of_the_gradient_descent_over_other/)
+
+ People here stick to the "number of parameters" argument but this is not a good explanation. This is because quasi-Newton methods exist and those typically work very well in high dimensions with comparably low memory footprint.
+
+The real reason is that we do stochastic optimization. It is already difficult to estimate the derivative of a stochastic function, but the second derivative is a lot worse. Moreover, you can't get the same benefit anymore from using second order information as in the deterministic case. As soon as the gradient is stochastic one can't do better than sub-linear convergence and the only thing to gain is better constants. 
+
+---
+
+Because modern neural nets have billions, if not trillions, of parameters, the Hessian matrix of billion/trillion x billion/trillion entries (which is the multivariate calculus generalization of second derivative) is simply impossible to compute or store. Second-order methods are nice but impractical, and that's also why you still see all the ongoing research in optimizing deep nets: a major theme is to find ways to (implicitly) approximate the Hessian in linear time.
+
+---
+
+SGD tends to select 'shallow' minima, which in turn tend to generalize better to held out data. Higher order methods may or may not have this property. 
 
 # Textbooks
 

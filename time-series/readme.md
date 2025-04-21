@@ -10,6 +10,14 @@
 
 [wilsonrljr/sysidentpy](https://github.com/wilsonrljr/sysidentpy) - nonlinear forecasting models.
 
+# Text Books
+
+[Forecasting: Principles and Practice (Third Edition)](https://otexts.com/fpp3/) - Rob J Hyndman and George Athanasopoulos
+
+# Models
+
+[AI Horizon Forecast](https://aihorizonforecast.substack.com/)
+
 # Transfer learning
 
 [Transfer learning for time series forecasting and classification](https://towardsdatascience.com/transfer-learning-for-time-series-forecasting-51f023bc159c)
@@ -17,6 +25,10 @@
 [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 
 [Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
+
+# Energy
+
+[Decoding Building Energy Patterns - by Giuseppe Pinto](https://giuseppepinto.substack.com/p/decoding-building-energy-patterns)
 
 ---
 

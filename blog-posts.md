@@ -37,3 +37,11 @@ Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https:/
 
 fastai
 - [The problem with metrics is a big problem for AI](https://www.fast.ai/posts/2019-09-24-metrics.html)
+
+[Are You Still Using the Elbow Method?](https://medium.com/data-science/are-you-still-using-the-elbow-method-5d271b3063bd)
+
+The Elbow method is pretty much the worst choice one can do when setting the number of clusters for a dataset.
+
+All the four alternatives that we tested did much better than the Elbow method.
+
+Calinski-Harabasz and BIC performed extremely well, with only one mistake out of 30 datasets.

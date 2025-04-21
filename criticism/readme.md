@@ -1,3 +1,19 @@
+[When ChatGPT summarises, it actually does nothing of the kind](https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/) - [Hacker News](https://news.ycombinator.com/item?id=41027658)
+
+Summarization versus shorten.  Summarization requires understanding.
+
+ChatGPT doesn't actually summarize texts, but instead shortens them without understanding the material.
+
+Can miss key points.
+
+Can oversimplify or hallucinate.
+
+---
+
+There are several strategies that allow good results with just a few iterations - for example, including a list of key questions to be answered
+
+The actual ‘intelligence’ (what to include, and what is actually said) has to come from the user, not the system.
+
 [Against Predictive Optimization](https://predictive-optimization.cs.princeton.edu/)
 
 Predictive optimization to refer to automated decision-making systems where machine learning is used to make predictions about some future outcome pertaining to individuals, and those predictions are used to make decisions about them. 
